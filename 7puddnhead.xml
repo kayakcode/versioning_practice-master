@@ -5,7 +5,7 @@
 <fileDesc>
   <titleStmt>
 	<title level="m" type="main">The Tragedy of Pudd'nhead Wilson: an electronic edition</title>
-	<author> Mark Twain </author><principal>Jacqueline Hettel</principal>
+	<author></author><principal>Jacqueline Hettel</principal>
 	<respStmt>
 	  <resp>Initial creation of TEI header and transformation of original
                     TEI-compliant SGML to TEI P5 XML</resp>
